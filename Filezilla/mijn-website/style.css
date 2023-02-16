@@ -1,0 +1,17 @@
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: red;
+    font-size: medium;
+}
+
+body {
+    background-color: rgb(189, 158, 18);
+}
+
+img {
+    height: auto;
+    width: auto;
+}

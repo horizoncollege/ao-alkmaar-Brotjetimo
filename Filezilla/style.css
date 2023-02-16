@@ -1,0 +1,16 @@
+h1 {
+    padding: 1% 5% 1% 5%;
+}
+
+p {
+    padding: 1% 2% 1% 2%;
+}
+
+.pictures {
+    padding: 1% 0% 1% 0%
+}
+
+#C-Text {
+    display:flex;
+    justify-content: center;
+}
